@@ -67,6 +67,9 @@ public class Stud
 {
 public static void main(String args[])
 {
+int i = 1;
+while(i==1)
+{
 System.out.println("\tStudents Mark Result");
 System.out.println("\t====================\n");
 
@@ -82,7 +85,7 @@ System.out.println("Mark 2: \n"+mark2);
 System.out.println("Mark 3: \n"+mark3);
 System.out.println("Mark 4: \n"+mark4);
 System.out.println("Total Marks: \n"+total);
-
+}
 }
 }
 
